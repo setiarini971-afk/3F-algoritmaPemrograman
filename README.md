@@ -1,5 +1,4 @@
 # 3F-algoritmaPemrograman
-Tentu, berikut template yang sama dengan masalah menentukan jenis segitiga berdasarkan panjang sisi.
 
 Logika Matematika - Menentukan Jenis Segitiga
 📝 Deskripsi Masalah
