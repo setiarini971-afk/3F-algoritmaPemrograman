@@ -9,6 +9,7 @@ Program ini dibuat untuk membantu menentukan apakah tiga panjang sisi dapat memb
 Program menerima tiga nilai sebagai input, yaitu panjang sisi pertama, sisi kedua, dan sisi ketiga. Program terlebih dahulu memeriksa validitas ketiga sisi menggunakan operator logika. Jika tidak memenuhi syarat segitiga, program akan menampilkan bahwa ketiga sisi tersebut tidak dapat membentuk segitiga.
 Jika ketiga sisi valid, program akan menentukan jenis segitiga. Jika ketiga sisi sama, maka termasuk segitiga sama sisi. Jika terdapat dua sisi yang sama, maka termasuk segitiga sama kaki. Jika ketiga sisi berbeda, maka termasuk segitiga sembarang.
 Program ini menerapkan konsep perbandingan, ketaksamaan segitiga, operator logika, dan percabangan if-elif-else dalam menyelesaikan permasalahan matematika.
+
 📥 Input-Proses-Output
 Input
 •	sisi1 = panjang sisi pertama
@@ -29,6 +30,7 @@ Output
 •	Segitiga sama sisi.
 •	Segitiga sama kaki.
 •	Segitiga sembarang.
+
 💻 Pseudocode
 START
 
@@ -59,6 +61,7 @@ ELSE
 END IF
 
 END
+
 📊 Flowchart
 
 🧪 Test Case
