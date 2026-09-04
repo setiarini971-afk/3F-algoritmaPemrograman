@@ -121,7 +121,7 @@ END
 
 # 📊 Flowchart
 
-```mermaid
+
 <img width="1024" height="1536" alt="flowchart_jenis_segitiga" src="https://github.com/user-attachments/assets/ee08eb1a-8b14-4416-b512-23cce472a7a7" />
 
 ```
