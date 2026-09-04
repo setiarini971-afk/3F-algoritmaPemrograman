@@ -168,6 +168,7 @@ Semua syarat terpenuhi.
 ```text
 Segitiga sama sisi
 ```
+<img width="1186" height="131" alt="Screenshot 2026-09-04 150825" src="https://github.com/user-attachments/assets/0d0ec258-f391-4f43-9364-b36a9e1b5e03" />
 
 ---
 
@@ -196,6 +197,7 @@ Ketiga sisi juga memenuhi syarat ketaksamaan segitiga:
 ```text
 Segitiga sama kaki
 ```
+<img width="1182" height="130" alt="Screenshot 2026-09-04 150851" src="https://github.com/user-attachments/assets/22573477-6e02-44da-bccd-709dfdbfaed3" />
 
 ---
 
@@ -216,6 +218,7 @@ Ketiga sisi memiliki panjang yang berbeda dan memenuhi syarat ketaksamaan segiti
 ```text
 Segitiga sembarang
 ```
+<img width="1187" height="130" alt="Screenshot 2026-09-04 150920" src="https://github.com/user-attachments/assets/eee199f3-5a73-4518-b7d5-d49a04756338" />
 
 ---
 
@@ -245,6 +248,7 @@ Artinya, ketiga sisi tersebut tidak dapat membentuk segitiga.
 ```text
 Ketiga sisi tersebut tidak dapat membentuk segitiga
 ```
+<img width="1181" height="125" alt="Screenshot 2026-09-04 150939" src="https://github.com/user-attachments/assets/970ccbcf-92d5-4982-b924-a4e71ea6f21e" />
 
 ---
 
