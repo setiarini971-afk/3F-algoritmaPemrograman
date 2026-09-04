@@ -122,28 +122,8 @@ END
 # 📊 Flowchart
 
 ```mermaid
-flowchart TD
+<img width="1024" height="1536" alt="flowchart_jenis_segitiga" src="https://github.com/user-attachments/assets/ee08eb1a-8b14-4416-b512-23cce472a7a7" />
 
-    A([START]) --> B[/INPUT sisi1, sisi2, sisi3/]
-
-    B --> C{Apakah sisi1 + sisi2 <= sisi3<br/>ATAU sisi1 + sisi3 <= sisi2<br/>ATAU sisi2 + sisi3 <= sisi1?}
-
-    C -->|Ya| D[/OUTPUT<br/>"Ketiga sisi tersebut tidak dapat membentuk segitiga"/]
-
-    C -->|Tidak| E{Apakah sisi1 = sisi2<br/>DAN sisi2 = sisi3?}
-
-    E -->|Ya| F[/OUTPUT<br/>"Segitiga sama sisi"/]
-
-    E -->|Tidak| G{Apakah sisi1 = sisi2<br/>ATAU sisi1 = sisi3<br/>ATAU sisi2 = sisi3?}
-
-    G -->|Ya| H[/OUTPUT<br/>"Segitiga sama kaki"/]
-
-    G -->|Tidak| I[/OUTPUT<br/>"Segitiga sembarang"/]
-
-    D --> J([END])
-    F --> J
-    H --> J
-    I --> J
 ```
 
 ---
